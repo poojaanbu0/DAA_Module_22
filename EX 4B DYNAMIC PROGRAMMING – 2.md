@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To find the longest string (or strings) that is a substring (or are substrings) of two strings..
+To find the longest string (or strings) that is a substring (or are substrings) of two strings.
 
 ## Algorithm:
 
